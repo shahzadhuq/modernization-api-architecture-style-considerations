@@ -23,7 +23,7 @@ For each architecture style shown in the table below, determine which tradeoffs 
 <details>
 <summary>click to expand</summary>
 
-1. RPC helps build functions - Command or Action oriented APIs - which are callable remotely.
+1. RPC style helps build Command or Action oriented APIs (functions), which are callable remotely.
 1. This style works well for implementing pre-determined use-cases.
 1. RPC follows contract-first approach: functions and messages are strongly typed and the contract is shared among client/server.
 
