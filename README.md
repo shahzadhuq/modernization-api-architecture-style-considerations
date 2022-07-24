@@ -37,7 +37,7 @@ For each architecture style shown in the table below, determine which tradeoffs 
 
 ### **Mindfulness**
 
-1. Predefined action oriented nature leads to tight coupling between client/server: slight variation to existing use-case will likely require new function implementation.
+1. Predefined action oriented nature leads to tight coupling with the system resources; slight variation to existing use-case will likely require new function implementation.
 1. You could end up with "function explosion": create new set of functions to accomplish slightly different actions.
 1. Lack of RPC API introspection could lead to poor discoverability: clients must know specific endpoint to call and downstream side-effects aren't always clear.
 
