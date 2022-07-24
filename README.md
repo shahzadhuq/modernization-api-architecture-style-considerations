@@ -27,6 +27,8 @@ For each architecture style shown in the table below, determine which tradeoffs 
 1. This style works well for implementing pre-determined use-cases.
 1. RPC follows contract-first approach: functions and messages are strongly typed and the contract is shared among client/server.
 
+> gRPC is modern open source high performance Remote Procedure Call (RPC) framework. To learn more about gRPC and how to use it on .NET, [click here](https://github.com/shahzadhuq/modernization-gRPC-on-dotnet).
+
 ### **Net Gains**
 
 1. RPC APIs are simple and easy to understand.
