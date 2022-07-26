@@ -1,4 +1,4 @@
-# API Design Considerations
+# API Architecture Style Considerations
 
 ## Summary
 When deciding an architecture style to build your APIs with, start with the question, `who will be the client (consumer) of your APIs?`. Picking the "right" architecture style is about moving forward with the tradeoffs that work best for your use-case and your organization. There is no silver-bullet or perfect approach. 
